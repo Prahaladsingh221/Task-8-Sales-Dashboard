@@ -1,0 +1,12 @@
+ Insights:
+
+- Central region leads with the highest sales (~2.8M)
+- Technology is the top-selling category, followed by Office Supplies
+- Sales peaked in November 2011, hitting ~0.33M in a single month
+- Top-selling products include envelopes, office chairs, and printers
+- Total sales across all regions reached 13M
+- Total profit generated was 1.47M, with a few items showing negative profit (e.g., some refrigerators and furniture)
+- West region shows the lowest sales (~0.7M), indicating potential for market expansion
+- Some products such as “HARD FLOOR CHAIR MAT” had negative profit, which might suggest discounting or high cost
+- A total of 51.29K orders were placed over the timeline
+- Consistent monthly sales trend with noticeable dips in Feb 2012 and Apr 2011

@@ -2,7 +2,7 @@
 
 This project is part of the Data Analyst Internship (Task 8). It presents an interactive sales dashboard using Power BI to visualize performance across different regions, categories, and time periods.
 
-## 📁 Dataset
+## Dataset
 - `superstore_sales.csv` – Sales records including order date, region, category, sales, and profit.
 
 ## Dashboard Features
